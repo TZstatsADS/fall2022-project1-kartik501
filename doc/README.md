@@ -4,6 +4,6 @@
 
 Python_Code.ipynb contains the code for all analysis.
 
-R_Code.rmd contains code for genrating the pdf report
+R_Code.rmd contains code for generating the pdf report
 
 Kartik_Kotian_Project1.pdf contains the report.
