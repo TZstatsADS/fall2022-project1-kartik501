@@ -2,4 +2,8 @@
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+Python_Code.ipynb contains the code for all analysis.
+
+R_Code.rmd contains code for genrating the pdf report
+
+Kartik_Kotian_Project1.pdf contains the report.
